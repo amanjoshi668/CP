@@ -1,0 +1,17 @@
+Will recieve location of user through 2 modes:
+    if Adroid can send the GPS location
+    other wise try to send relevent location in text format;
+
+    Relief center setup and getting person to the relief center.
+
+
+# Idea for codefundo++
+
+Optimal Positioning of Rescue Centers in a Natural Disaster occurred.
+
+
+**What are we planning to build**
+We are trying to build a solution for Positioning of Rescue Centers in a Natural Disaster and guiding the refugees to the Rescue Centers.
+Observing the previous few trends of Natural Disaster and their effect on human lives.
+One thing is that the number of Natural Disaster has not reduced but the casualty in those unfortunate accidents has been significantly reduced. We think this huge difference is because of the improvement in the Rescue services. However, there is a lot of scope for improvement. The recent flood in Kerala led us to believe that this can be improved significantly. If we can set up rescue camp such that its position is both optimal and feasible. For that, we want to analyze the live data consisting of the position of peoples will be received via text. We will then use this data instead of the census
+data we can select much better positions for the rescue centers. Analyzing this with the geographical data we will provide the list of feasible points where we can set up our camp. Such that the resource used can be minimized. This will significantly reduce the setup time for the rescue camps. On the other side provide full communication to the user like guiding them to the rescue center and letting them know whether they have to reach the Rescue center themselves or the help will reach them.
